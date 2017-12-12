@@ -1,6 +1,6 @@
 {
-  "name": "ember-router-scroll",
-  "version": "0.4.0",
+  "name": "@cspanring/ember-router-scroll",
+  "version": "0.4.1",
   "description": "Scroll to top with preserved browser history scroll position",
   "directories": {
     "doc": "doc",
